@@ -89,7 +89,7 @@ The notebook includes:
 
 ## 🚀 How to Run the Notebook
 
-1. Clone the repository: ` git clone https://github.com/<Aditya1511ap>/<zomato_data_analysis>.git`
+1. Clone the repository: ` git clone https://github.com/<Aditya1511ap>/<zomato-data-analysis>.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run Jupyter Notebook: `jupyter notebook`
 4. Open: `Zomato_data_analysis.ipynb`
